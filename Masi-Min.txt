@@ -3868,7 +3868,6 @@
 ||www.good-models.net^
 ||www.goodtalen.com^
 ||www.goodtalens.com^
-||www.google.com^
 ||www.goteentube.com^
 ||www.goteenygo.com^
 ||www.goto.nu^
