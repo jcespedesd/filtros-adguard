@@ -2,7 +2,7 @@
 
 ## 📄 Descripción
 
-Este repositorio contiene la documentación, configuraciones y archivos HTML utilizados para implementar un **sistema de bloqueo de contenido web**, conforme a la **Ley 679 de 2001** y el **Decreto 1524 de 2002** en Colombia. La solución combina herramientas de red y análisis como **Mikrotik (Web Proxy)**, **AdGuard Home (DNS filtering)** y **Screaming Frog (auditoría SEO)** para asegurar el cumplimiento y el monitoreo continuo de los dominios bloqueados.
+Este repositorio contiene la documentación listas de dominios, configuraciones y archivos HTML utilizados para implementar un **sistema de bloqueo de contenido web**, conforme a la **Ley 679 de 2001** y el **Decreto 1524 de 2002** en Colombia. La solución combina herramientas de red y análisis como **Mikrotik (Web Proxy)**, **AdGuard Home (DNS filtering)** y **Screaming Frog (auditoría SEO)** para asegurar el cumplimiento y el monitoreo continuo de los dominios bloqueados.
 
 ---
 
